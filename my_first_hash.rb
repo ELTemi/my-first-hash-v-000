@@ -18,7 +18,7 @@ def shipping_manifest
     "porcelin vases" => 2,
     "oil paintings" => 3
   }
-  hash
+  the_manifest
 end
 
 def retrieval
